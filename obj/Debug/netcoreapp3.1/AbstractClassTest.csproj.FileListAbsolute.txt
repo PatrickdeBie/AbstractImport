@@ -1,0 +1,13 @@
+C:\Dev\AbstractClassTest\bin\Debug\netcoreapp3.1\AbstractClassTest.exe
+C:\Dev\AbstractClassTest\bin\Debug\netcoreapp3.1\AbstractClassTest.deps.json
+C:\Dev\AbstractClassTest\bin\Debug\netcoreapp3.1\AbstractClassTest.runtimeconfig.json
+C:\Dev\AbstractClassTest\bin\Debug\netcoreapp3.1\AbstractClassTest.runtimeconfig.dev.json
+C:\Dev\AbstractClassTest\bin\Debug\netcoreapp3.1\AbstractClassTest.dll
+C:\Dev\AbstractClassTest\bin\Debug\netcoreapp3.1\AbstractClassTest.pdb
+C:\Dev\AbstractClassTest\obj\Debug\netcoreapp3.1\AbstractClassTest.csprojAssemblyReference.cache
+C:\Dev\AbstractClassTest\obj\Debug\netcoreapp3.1\AbstractClassTest.csproj.CoreCompileInputs.cache
+C:\Dev\AbstractClassTest\obj\Debug\netcoreapp3.1\AbstractClassTest.AssemblyInfoInputs.cache
+C:\Dev\AbstractClassTest\obj\Debug\netcoreapp3.1\AbstractClassTest.AssemblyInfo.cs
+C:\Dev\AbstractClassTest\obj\Debug\netcoreapp3.1\AbstractClassTest.dll
+C:\Dev\AbstractClassTest\obj\Debug\netcoreapp3.1\AbstractClassTest.pdb
+C:\Dev\AbstractClassTest\obj\Debug\netcoreapp3.1\AbstractClassTest.genruntimeconfig.cache
